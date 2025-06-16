@@ -1,0 +1,4 @@
+Flask==2.3.2 # Or your current Flask version, check 'pip show Flask'
+python-dotenv==1.0.0
+google-generativeai==0.3.0 # Or your current version, check 'pip show google-generativeai'
+gunicorn==22.0.0 # Essential for production Flask deployment
